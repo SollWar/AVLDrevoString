@@ -1,0 +1,6 @@
+C:\Users\Sollw\source\repos\AVLDrevoString\bin\Debug\AVLDrevoString.exe.config
+C:\Users\Sollw\source\repos\AVLDrevoString\bin\Debug\AVLDrevoString.exe
+C:\Users\Sollw\source\repos\AVLDrevoString\bin\Debug\AVLDrevoString.pdb
+C:\Users\Sollw\source\repos\AVLDrevoString\obj\Debug\AVLDrevoString.csprojAssemblyReference.cache
+C:\Users\Sollw\source\repos\AVLDrevoString\obj\Debug\AVLDrevoString.exe
+C:\Users\Sollw\source\repos\AVLDrevoString\obj\Debug\AVLDrevoString.pdb
